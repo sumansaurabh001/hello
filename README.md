@@ -5,6 +5,7 @@
   Set env var
   
   `export GOPATH=$(go env GOPATH)`
+  
   or 
   
   `export PATH=$PATH:$(go env GOPATH)/bin`
